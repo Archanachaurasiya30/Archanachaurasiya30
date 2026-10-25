@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Archana Chaurasiya 👋
 
-<!--
-**Archanachaurasiya30/Archanachaurasiya30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student
+💻 Interested in Software Development, Backend Development, and Artificial Intelligence
+🌱 Currently learning Python, JavaScript, Node.js, Express.js, and Git/GitHub
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Python, JavaScript
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB, MySQL
+* **Tools:** Git, GitHub, VS Code, Postman
+
+## 🚀 Projects
+
+* **Image Uploader:** A backend application for uploading images and managing post data.
+* **KaasuPay Backend:** Learning backend concepts such as authentication, rate limiting, and API development.
+* **IBVAP:** An AI-based video analytics project concept for border surveillance.
+
+## 🌟 Open Source
+
+Contributing to open-source projects and learning collaborative development through GitHub Pull Requests.
+
+## 📫 Connect With Me
+
+* GitHub: [@Archanachaurasiya30](https://github.com/Archanachaurasiya30)
+* LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/archana-chaurasiy-/)
